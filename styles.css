@@ -38,7 +38,7 @@ h3 {
   align-items: flex-start;
   justify-content: space-around;
   flex-wrap: wrap;
-  gap: 10rem;
+  gap: 5rem;
 }
 .galleryImage {
   width: 100%;
