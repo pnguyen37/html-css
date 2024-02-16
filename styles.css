@@ -41,7 +41,6 @@ h3 {
   gap: 5rem;
 }
 .galleryImage {
-  width: 100%;
   height: auto;
   height: 300px;
   border: 5px solid lavender;
